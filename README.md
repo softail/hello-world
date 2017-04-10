@@ -1,2 +1,1 @@
-# hello-world
-just learning
+I am Temo from Georgia.
